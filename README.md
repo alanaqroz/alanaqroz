@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Oi,%20eu%20sou%20a%20Alana!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20•%20Tecnologia%20•%20Experiências%20Digitais&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Oi,%20eu%20sou%20a%20Alana!%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvimento%20•%20Tecnologia%20•%20Experiências%20Digitais&descAlignY=55&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1400&color=A855F7&center=true&vCenter=true&width=500&lines=Estudante+de+Ciência+da+Computação;Sempre+aprendendo+algo+novo.)](https://git.io/typing-svg)
 
@@ -51,7 +51,6 @@ Quando não estou programando, provavelmente estou buscando algo novo.
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=alanaqroz&theme=midnight-purple&hide_border=true&border_radius=10&locale=pt_BR" height="165"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alanaqroz&layout=compact&theme=midnight-purple" />
 
 </div>
 
