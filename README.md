@@ -50,7 +50,7 @@ Quando não estou programando, provavelmente estou buscando algo novo.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=alanaqroz&theme=midnight-purple&hide_border=true&border_radius=10&locale=pt_BR" height="165"/>
+<img src="https://streak-stats.demolab.com?user=alanaqroz&theme=midnight-purple&hide_border=true&border_radius=10&locale=pt_BR&timezone=America/Sao_Paulo" height="165"/>
 
 </div>
 
