@@ -48,23 +48,26 @@ Quando não estou programando, provavelmente estou buscando algo novo.
 
 ## Minha atividade no GitHub
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanaqroz&layout=donut-vertical&theme=midnight-purple&hide_border=true&border_radius=10" 
-    height="200"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=alanaqroz&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" 
-    height="200"
-  />
-</div>
 
 <div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alanaqroz&theme=midnight_purple" 
-    width="100%"
-  />
+
+  <a href="https://github.com/alanaqroz">
+    <img 
+      src="https://streak-stats.demolab.com/?user=alanaqroz&theme=midnight-purple&hide_border=true&border_radius=12&locale=pt_BR"
+      height="180"
+    />
+  </a>
+
+  <a href="https://github.com/alanaqroz?tab=repositories">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alanaqroz&theme=midnight_purple"
+      height="180"
+    />
+  </a>
+
 </div>
+
+<br>
 
 ---
 
